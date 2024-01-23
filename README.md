@@ -1,18 +1,17 @@
 <div align="center">
     <h1 align="center">Hola, soy <a href="https://curriculum-vitae-p4yu321xr-franko2015.vercel.app">Franco Millanes Araya</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="./banner.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/Franko2015?style=social)](https://github.com/Franko2015)
 
 ## Sobre mí
 
-- ⭐ Github Star ⭐ 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/tu-usuario-en-youtube?sub_confirmation=1) (+40k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://tucursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://tu-enlace-a-tu-libro.com)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🌐 Web developer
+- 🖥️ Front-end developer
+- 💻 Programmer analyst
+
 <br>
 
 ## Proyectos *bombitas*
@@ -20,24 +19,21 @@
 <!-- Aquí puedes modificar la información de tus proyectos -->
 <tr>
 <td width="50%">
-    <h3 align="center">Curso Android Básico</h3>
+    <h3 align="center">Sistema de Soluciones Informáticas</h3>
     <div align="center">
-        <a href="https://github.com/Franko2015/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+        <a href="https://github.com/Franko2015/Servicios" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgFmfT2HWYtBoS1Po1iByADJvJaqZyIUOZ4orJK0m5tDtXYLVy4r7T71QrDB3rIQ5GwT-5TyYlmErL5Jm1BXtpuvN4WuJJXr0T15JJFiGc8IgAdjmuXuPgca7XfHsNGvHuZBciOLhaDdTjOwxbpzKUrx2GPQmh_E0rVZru83K5FjofJ7EGXH3z2cP7w82XS=s1600" width="400" alt="Servicios tecnológicos"></a>
         <p>
-            <a href="https://github.com/Franko2015/Android-Expert" target="_blank">
+            <a href="https://github.com/Franko2015/Servicios" target="_blank">
                 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-            </a>
         </p>
-        <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+        <p>Sistema para responder a soluciones informáticas</strong> - La instensión de este sistema es promover al usuario a la comodidad de mejorar la calidad de atención por parte de la empresa de TI, dejando este proyecto</strong> con todo el código disponible para descargar.</p>
     </div>                                                               
 </td>
 
 <!-- Puedes agregar más proyectos aquí -->
 
-</table>                                                                                 
+</table>
 </div>
 <br>
 
