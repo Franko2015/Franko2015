@@ -1,85 +1,51 @@
-<style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f7f7f7;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+<div align="center">
+    <h1 align="center">Hola, soy <a href="https://curriculum-vitae-p4yu321xr-franko2015.vercel.app">Franco Millanes Araya</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-        .container {
-            text-align: center;
-        }
+[![GitHub followers](https://img.shields.io/github/followers/Franko2015?style=social)](https://github.com/Franko2015)
 
-        h1 {
-            color: #2a8ef1;
-        }
+## Sobre mí
 
-        p {
-            font-size: 1.2em;
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/tu-usuario-en-youtube?sub_confirmation=1) (+40k subs)
+- ✏️ Y por escrito en [CursoKotlin](https://tucursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://tu-enlace-a-tu-libro.com)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
 
-        .skills {
-            margin-top: 20px;
-        }
+## Proyectos *bombitas*
+<table>
+<!-- Aquí puedes modificar la información de tus proyectos -->
+<tr>
+<td width="50%">
+    <h3 align="center">Curso Android Básico</h3>
+    <div align="center">
+        <a href="https://github.com/Franko2015/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+        <p>
+            <a href="https://github.com/Franko2015/Android-Expert" target="_blank">
+                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+                <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+            </a>
+        </p>
+        <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+    </div>                                                               
+</td>
 
-        ul {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-        }
+<!-- Puedes agregar más proyectos aquí -->
 
-        li {
-            margin: 0 10px;
-            font-size: 1.2em;
-            color: #555;
-        }
+</table>                                                                                 
+</div>
+<br>
 
-        a {
-            text-decoration: none;
-            color: #2a8ef1;
-            font-weight: bold;
-        }
+### ⚙️ &nbsp;GitHub Analytics
 
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>¡Hola, soy [Tu Nombre]!</h1>
-        <p>Bienvenido a mi espacio de desarrollo ✨</p>
-        
-        <h2>Sobre mí</h2>
-        <p>🚀 Desarrollador Front-End apasionado con 4 años de experiencia creando experiencias web cautivadoras. Mi trayectoria en el mundo del desarrollo comenzó con un amor por la programación y un enfoque especializado en lenguajes web como HTML, CSS y JavaScript.</p>
-        
-        <h2>¿Qué estoy haciendo actualmente?</h2>
-        <p>💼 Actualmente, me encuentro inmerso en proyectos que desafían mis habilidades y me permiten explorar nuevas tecnologías para mejorar la interfaz de usuario. Mi enfoque se centra en la creación de sitios web responsivos, intuitivos y estéticamente atractivos, siempre con la última tendencia en tecnologías front-end en mente.</p>
-
-        <h2>Habilidades Técnicas</h2>
-        <div class="skills">
-            <ul>
-                <li>HTML5</li>
-                <li>CSS3</li>
-                <li>JavaScript (ES6+)</li>
-                <li>React.js</li>
-                <li>Desarrollo responsive</li>
-                <li>Webpack, npm</li>
-                <li>Integración de API RESTful</li>
-            </ul>
-        </div>
-
-        <h2>Aprendizaje Continuo</h2>
-        <p>📘 Constantemente busco aprender y evolucionar en este emocionante campo, manteniéndome al tanto de las últimas tendencias y prácticas recomendadas.</p>
-
-        <h2>Echa un vistazo a mi trabajo</h2>
-        <p>🌐 ¡Explora mi repositorio y descubre cómo transformo ideas en código!</p>
-    </div>
+<p align="center">
+    <a href="https://github.com/Franko2015">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Franko2015&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Franko2015&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
