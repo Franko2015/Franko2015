@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hola, soy <a href="https://curriculum-vitae-p4yu321xr-franko2015.vercel.app">Franco Millanes Araya</a> 👋</h1>
 </div>
-<img src="./banner.svg">
+<a href="https://github.com/Franko2015?tab=repositories"><img src="./banner.svg"></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/Franko2015?style=social)](https://github.com/Franko2015)
 
