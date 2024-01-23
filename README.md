@@ -7,10 +7,10 @@
 
 ## Sobre mí
 
-- 📲 Mobile developer
-- 🌐 Web developer
-- 🖥️ Front-end developer
-- 💻 Programmer analyst
+- 📲 Desarrollador android
+- 🌐 Desarrollador web
+- 🖥️ Desarrollador Front-end
+- 💻 Analista programador
 
 <br>
 
