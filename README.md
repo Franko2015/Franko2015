@@ -14,7 +14,7 @@
 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos 💣
 <table>
 <!-- Aquí puedes modificar la información de tus proyectos -->
 <tr>
