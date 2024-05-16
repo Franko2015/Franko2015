@@ -21,7 +21,7 @@
 <td width="50%">
     <h3 align="center">Sistema de Soluciones Informáticas</h3>
     <div align="center">
-        <a href="https://github.com/Franko2015/Servicios" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgFmfT2HWYtBoS1Po1iByADJvJaqZyIUOZ4orJK0m5tDtXYLVy4r7T71QrDB3rIQ5GwT-5TyYlmErL5Jm1BXtpuvN4WuJJXr0T15JJFiGc8IgAdjmuXuPgca7XfHsNGvHuZBciOLhaDdTjOwxbpzKUrx2GPQmh_E0rVZru83K5FjofJ7EGXH3z2cP7w82XS=s1600" width="400" alt="Servicios tecnológicos"></a>
+        <a href="https://github.com/Franko2015/Servicios" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhhocSOt5J5rxNZmS8V6I88Tvyl7hoasFXbOyvT0PGnsEosDyWN5jxRBBX32_7e3EVr6fjHXprP9-o9MuwWvRnIStjiVX_GKVaToeN0UMLuvCQWuaOQ76IGQn5WGcXra2vC4x5BauUJTZC5Z2O72TCLplqeeRjdp6ibQixly2zn9sITgM3hrwqv3654RP20=s1600" width="400" alt="Servicios tecnológicos"></a>
         <p>
             <a href="https://github.com/Franko2015/Servicios" target="_blank">
                 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
