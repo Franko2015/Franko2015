@@ -27,12 +27,24 @@
                 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
         </p>
-        <p>Sistema para responder a soluciones informáticas</strong> - La instensión de este sistema es promover al usuario a la comodidad de mejorar la calidad de atención por parte de la empresa de TI, dejando este proyecto</strong> con todo el código disponible para descargar.</p>
+        <p>Sistema para responder a soluciones informáticas</strong> - La intención de este sistema es promover al usuario a la comodidad de mejorar la calidad de atención por parte de la empresa de TI, dejando este proyecto</strong> con todo el código disponible para descargar.</p>
     </div>                                                               
 </td>
 
 <!-- Puedes agregar más proyectos aquí -->
-
+<tr>
+<td width="50%">
+    <h3 align="center">Landing page</h3>
+    <div align="center">
+        <a href="https://github.com/Franko2015/freelancer" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgNmwnE0g4sI-GZCab6_49z4S7i8mbtVDF-rDyl4ABbJ4yBUisHUd9HhbS3X5Sqzp8G8aSzardGzDQ0KVXcatw99eTNiTDediSC2Emg1Tio28AZfW4h6QpNFDk_2y0SZR4oe5Z37FB3P1s3rxIOMihyl4voyVn0ICTvEL0Uff6reUnw4a8MGFZFkbrWBzeR=s1600" width="400" alt="Landing Page"></a>
+        <p>
+            <a href="https://github.com/Franko2015/freelance" target="_blank">
+                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+        </p>
+        <p>Sitio de presentación para prestación de servicios informáticos</strong> - Se valoran los proyectos realizados con antelación, actualizando de manera recurrente con información de otros proyectos que vienen en camino.</strong> Dejando tambien todo el código disponible para descargar.</p>
+    </div>                                                               
+</td>
 </table>
 </div>
 <br>
